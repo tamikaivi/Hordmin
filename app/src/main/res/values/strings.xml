@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HorseAdministration</string>
+    <string name="sharedPreferences">hola</string>
+</resources>
